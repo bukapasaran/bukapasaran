@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Panduan Mengenal BUKAPASARAN",
+    "slug": "bukapasaran",
+    "description": "Informasi umum untuk mengenal BUKAPASARAN, menavigasi situs, dan memeriksa ketentuan sebelum menggunakan layanan.",
+    "date": "2026-11-08",
+    "category": "Panduan",
+    "sections": [
+      {
+        "heading": "Mengenal BUKAPASARAN",
+        "paragraphs": [
+          "Halaman ini menyajikan informasi umum dan panduan navigasi BUKAPASARAN. Pastikan kamu mengakses domain yang benar sebelum menggunakan layanan apa pun.",
+          "Periksa informasi dan ketentuan yang tersedia di situs. Jika ada hal yang belum jelas, hubungi kanal bantuan resmi sebelum melanjutkan."
+        ]
+      },
+      {
+        "heading": "Gunakan layanan secara bijak",
+        "paragraphs": [
+          "Baca syarat penggunaan dan kebijakan privasi. Jangan membagikan kata sandi, kode OTP, atau data sensitif kepada pihak lain.",
+          "Tidak ada hasil atau keuntungan yang dapat dijamin. Patuhi ketentuan yang berlaku dan gunakan layanan secara bertanggung jawab."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Panduan Login BUKAPASARAN",
+    "slug": "bukapasaran-login",
+    "description": "Panduan umum untuk mengakses akun BUKAPASARAN dengan memperhatikan keaslian alamat situs dan keamanan data.",
+    "date": "2026-11-08",
+    "category": "Akun",
+    "sections": [
+      {
+        "heading": "Pastikan alamat situs benar",
+        "paragraphs": [
+          "Periksa ejaan domain dengan teliti dan pastikan koneksi menggunakan HTTPS. Simpan alamat situs yang benar sebagai bookmark agar tidak bergantung pada tautan yang tidak dikenal.",
+          "HTTPS membantu mengenkripsi koneksi, tetapi bukan jaminan bahwa situs pasti resmi. Tetap periksa nama domain dan sumber tautannya."
+        ]
+      },
+      {
+        "heading": "Jaga keamanan akun",
+        "paragraphs": [
+          "Gunakan kata sandi yang kuat dan unik. Jangan membagikan kata sandi, kode verifikasi, atau informasi pemulihan kepada siapa pun.",
+          "Jika mengalami kendala, gunakan kanal bantuan resmi dan jangan mengirimkan informasi sensitif melalui komentar publik."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Informasi Pendaftaran BUKAPASARAN",
+    "slug": "daftar-bukapasaran",
+    "description": "Hal-hal yang perlu diperiksa sebelum mengisi formulir dan membuat akun BUKAPASARAN.",
+    "date": "2026-11-08",
+    "category": "Akun",
+    "sections": [
+      {
+        "heading": "Periksa ketentuan terlebih dahulu",
+        "paragraphs": [
+          "Baca syarat penggunaan, kebijakan privasi, batasan usia, dan aturan yang berlaku di wilayahmu sebelum mendaftar.",
+          "Pastikan formulir berasal dari domain yang benar dan informasi yang diminta memang diperlukan. Hindari halaman tiruan."
+        ]
+      },
+      {
+        "heading": "Lindungi informasi pribadi",
+        "paragraphs": [
+          "Gunakan kata sandi yang berbeda dari akun email atau layanan lain. Aktifkan perlindungan tambahan jika tersedia.",
+          "Jangan melanjutkan pendaftaran jika belum memahami ketentuan layanan atau tidak memenuhi persyaratan yang ditetapkan."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Cara Mengenali Tautan Resmi BUKAPASARAN",
+    "slug": "link-alternatif-bukapasaran",
+    "description": "Tips memeriksa alamat tautan, menghindari situs tiruan, dan menjaga keamanan saat mengakses BUKAPASARAN.",
+    "date": "2026-11-08",
+    "category": "Keamanan",
+    "sections": [
+      {
+        "heading": "Periksa domain dan sumber tautan",
+        "paragraphs": [
+          "Perhatikan ejaan nama domain secara teliti. Perbedaan satu karakter dapat mengarah ke situs yang berbeda.",
+          "Jangan membuka tautan pendek atau lampiran dari pengirim yang tidak dikenal jika tujuan akhirnya tidak dapat dipastikan."
+        ]
+      },
+      {
+        "heading": "Jangan bagikan kode rahasia",
+        "paragraphs": [
+          "Jangan pernah memberikan kata sandi, kode OTP, atau data pembayaran kepada pihak yang menghubungi lebih dahulu dan mengaku sebagai petugas bantuan.",
+          "Verifikasi pengumuman dan informasi melalui kanal resmi yang dapat kamu pastikan keasliannya."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Tips Menjaga Keamanan Akun BUKAPASARAN",
+    "slug": "keamanan-akun-bukapasaran",
+    "description": "Langkah praktis menjaga kata sandi, perangkat, dan informasi pribadi ketika menggunakan layanan online.",
+    "date": "2026-11-08",
+    "category": "Keamanan",
+    "sections": [
+      {
+        "heading": "Gunakan perangkat yang aman",
+        "paragraphs": [
+          "Perbarui sistem operasi dan browser secara berkala. Hindari menyimpan kata sandi pada perangkat umum atau perangkat bersama.",
+          "Keluar dari akun setelah selesai menggunakan perangkat bersama dan jangan aktifkan fitur ingat saya pada perangkat tersebut."
+        ]
+      },
+      {
+        "heading": "Kenali aktivitas yang tidak biasa",
+        "paragraphs": [
+          "Jika menemukan aktivitas yang tidak dikenal, ubah kata sandi melalui halaman resmi dan hubungi bantuan resmi.",
+          "Waspadai pesan yang menjanjikan keuntungan pasti atau meminta pembayaran tambahan untuk membuka hadiah."
+        ]
+      }
+    ]
+  }
+]
